@@ -13,3 +13,6 @@ import request from 'supertest';//similar a fetch del lado del cliente
 # WINDOWS
 
 //set NODE_OPTIONS=--experimental-vm-modules && npx jest
+
+
+1ero se escribe el test y luegose escribe el codigo
