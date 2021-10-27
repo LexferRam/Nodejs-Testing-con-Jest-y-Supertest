@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "nodemon src/",
-    "test": "export NODE_OPTIONS=--experimental-vm-modules && jest"
+    "test": "export NODE_OPTIONS=--experimental-vm-modules && jest --detectOpenHandles"
   },
   "keywords": [],
   "author": "",
